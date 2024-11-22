@@ -1,0 +1,1 @@
+The project involves the development of a simple Ethereum-based betting game. The contract allows participants to place a fixed bet amount, and at the end of the betting period, a winner is chosen randomly. The winner receives the entire contract balance. The contract ensures that only one bet can be placed per participant, thus preventing multiple bets from the same address
